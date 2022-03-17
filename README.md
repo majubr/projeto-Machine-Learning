@@ -1,4 +1,3 @@
 # projeto-Machine-Learning
-Neste projeto utilizei registros fotograficos de camera-trap de veado-catingueiro em areas de Cerrado, 
-para treinar um modelo utilizando machine learning que consegue predizer a probabilidade de registro do mamífero no equipamento.
-Os dados utilizados são referentes ao meu doutorado em biologia
+ Neste projeto, utilizei dados de camera-trap de meu doutorado em biologia, para tentar predizer se um mamifero silvestre, o veado-catingueiro
+poderia ou não ser fotogrado pelo equipamento, a partir de um algoritmo onde utilizei procedimentos de machine learning
